@@ -1,0 +1,7 @@
+../Core/Src/kernal.c:11:6:osKernelInit	2
+../Core/Src/kernal.c:27:5:osCreateTask	7
+../Core/Src/kernal.c:62:5:osKernelStart	5
+../Core/Src/kernal.c:85:6:osYield	1
+../Core/Src/kernal.c:89:5:osTaskInfo	4
+../Core/Src/kernal.c:108:8:osGetTID	2
+../Core/Src/kernal.c:117:5:osTaskExit	1

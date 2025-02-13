@@ -1,0 +1,9 @@
+../Core/Src/kernel.c:17:6:osIdleTaskRun	24	static
+../Core/Src/kernel.c:37:6:osKernelInit	16	static
+../Core/Src/kernel.c:69:5:osCreateTask	64	static
+../Core/Src/kernel.c:151:5:osKernelStart	24	static,ignoring_inline_asm
+../Core/Src/kernel.c:180:6:osYield	24	static,ignoring_inline_asm
+../Core/Src/kernel.c:196:5:osTaskInfo	16	static
+../Core/Src/kernel.c:211:8:osGetTID	16	static
+../Core/Src/kernel.c:224:5:osTaskExit	24	static,ignoring_inline_asm
+../Core/Src/kernel.c:248:6:RR_Scheduler	32	static

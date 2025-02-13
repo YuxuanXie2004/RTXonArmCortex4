@@ -1,0 +1,7 @@
+../Core/Src/kernal.c:11:6:osKernelInit	16	static
+../Core/Src/kernal.c:27:5:osCreateTask	24	static
+../Core/Src/kernal.c:62:5:osKernelStart	16	static
+../Core/Src/kernal.c:85:6:osYield	4	static
+../Core/Src/kernal.c:89:5:osTaskInfo	16	static
+../Core/Src/kernal.c:108:8:osGetTID	4	static
+../Core/Src/kernal.c:117:5:osTaskExit	4	static
