@@ -1,0 +1,4 @@
+../Core/Src/main.c:15:6:TaskA	1
+../Core/Src/main.c:22:7:TaskB	1
+../Core/Src/main.c:29:7:TaskC	1
+../Core/Src/main.c:36:5:main	1

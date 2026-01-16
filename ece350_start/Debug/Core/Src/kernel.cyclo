@@ -1,0 +1,13 @@
+../Core/Src/kernel.c:16:6:osIdleTaskRun	4
+../Core/Src/kernel.c:38:6:osKernelInit	3
+../Core/Src/kernel.c:73:5:osCreateTask	25
+../Core/Src/kernel.c:224:5:osKernelStart	6
+../Core/Src/kernel.c:256:6:osYield	5
+../Core/Src/kernel.c:282:5:osTaskInfo	3
+../Core/Src/kernel.c:298:8:osGetTID	4
+../Core/Src/kernel.c:313:5:osTaskExit	4
+../Core/Src/kernel.c:369:6:EDF_Scheduler	8
+../Core/Src/kernel.c:419:5:osSetDeadline	10
+../Core/Src/kernel.c:464:5:osCreateDeadlineTask	16
+../Core/Src/kernel.c:526:6:osSleep	1
+../Core/Src/kernel.c:534:6:osPeriodYield	1
